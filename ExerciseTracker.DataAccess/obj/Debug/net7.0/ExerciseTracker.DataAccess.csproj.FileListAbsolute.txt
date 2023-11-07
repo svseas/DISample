@@ -1,0 +1,17 @@
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/bin/Debug/net7.0/ExerciseTracker.DataAccess.deps.json
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/bin/Debug/net7.0/ExerciseTracker.DataAccess.dll
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/bin/Debug/net7.0/ExerciseTracker.DataAccess.pdb
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/bin/Debug/net7.0/ExerciseTracker.Domain.dll
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/bin/Debug/net7.0/ExerciseTracker.Domain.pdb
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/obj/Debug/net7.0/ExerciseTracker.DataAccess.csproj.AssemblyReference.cache
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/obj/Debug/net7.0/ExerciseTracker.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/obj/Debug/net7.0/ExerciseTracker.DataAccess.AssemblyInfoInputs.cache
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/obj/Debug/net7.0/ExerciseTracker.DataAccess.AssemblyInfo.cs
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/obj/Debug/net7.0/ExerciseTracker.DataAccess.csproj.CoreCompileInputs.cache
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/obj/Debug/net7.0/ExerciseTracker.DataAccess.csproj.CopyComplete
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/obj/Debug/net7.0/ExerciseTracker.DataAccess.dll
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/obj/Debug/net7.0/refint/ExerciseTracker.DataAccess.dll
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/obj/Debug/net7.0/ExerciseTracker.DataAccess.pdb
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/obj/Debug/net7.0/ref/ExerciseTracker.DataAccess.dll
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/bin/Debug/net7.0/ExerciseTracker.DataAccess.runtimeconfig.json
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.DataAccess/obj/Debug/net7.0/ExerciseTracker.DataAccess.genruntimeconfig.cache

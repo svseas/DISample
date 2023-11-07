@@ -1,0 +1,12 @@
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.Domain/bin/Debug/net7.0/ExerciseTracker.Domain.deps.json
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.Domain/bin/Debug/net7.0/ExerciseTracker.Domain.dll
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.Domain/bin/Debug/net7.0/ExerciseTracker.Domain.pdb
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.Domain/obj/Debug/net7.0/ExerciseTracker.Domain.csproj.AssemblyReference.cache
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.Domain/obj/Debug/net7.0/ExerciseTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.Domain/obj/Debug/net7.0/ExerciseTracker.Domain.AssemblyInfoInputs.cache
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.Domain/obj/Debug/net7.0/ExerciseTracker.Domain.AssemblyInfo.cs
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.Domain/obj/Debug/net7.0/ExerciseTracker.Domain.csproj.CoreCompileInputs.cache
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.Domain/obj/Debug/net7.0/ExerciseTracker.Domain.dll
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.Domain/obj/Debug/net7.0/refint/ExerciseTracker.Domain.dll
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.Domain/obj/Debug/net7.0/ExerciseTracker.Domain.pdb
+/home/truong/RiderProjects/ExerciseTracker/ExerciseTracker.Domain/obj/Debug/net7.0/ref/ExerciseTracker.Domain.dll
